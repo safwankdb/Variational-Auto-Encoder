@@ -1,5 +1,5 @@
 # Variational-Auto-Encoder
-PyTorch implementation of Variational Auto Encoder as described in [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) from ICLR 2014.
+PyTorch implementation of Variational Auto-Encoder as described in [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) from ICLR 2014.
 
 
 <div align='center'>
