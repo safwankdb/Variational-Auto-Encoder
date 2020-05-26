@@ -13,6 +13,7 @@ This model was trained to encode 784 dimensional MNIST images to just 2 dimensio
   <img src='img/fig.jpg' width="512.jpg" >
 </div>
 
+
 ### Implementation Details
 - The encoder and decoder are symmetrical MLPs with 256 neurons in each's hidden layer. 
 - This implementation is inspired by [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html).
