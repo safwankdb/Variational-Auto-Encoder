@@ -4,7 +4,7 @@ PyTorch implementation of Variational Auto-Encoder as described in [Auto-Encodin
 
 <div align='center'>
   <img src='img/sample.png' height="280px">
-  <span> <p> Randomly Sampled Images for 2D Latent Space </span>
+  <span> <p> Randomly Sampled Images for 2D Latent Space </p></span>
 </div>
 
 ### Latent Space
